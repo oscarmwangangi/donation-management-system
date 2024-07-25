@@ -1,0 +1,109 @@
+/* Basic styles, customize as needed */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+h1{
+    text-align: center;
+}
+
+.profile-img{    
+    height: auto;
+    width:120px;
+    border-radius: 12px;
+    box-shadow: 4px 4px #696969;
+}
+/* form{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+.button {
+    box-shadow: 20px;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    
+}
+.button:hover {
+    background-color:darkgreen;
+    cursor: pointer;
+}
+input:focus {
+   
+}
+select, button {
+    padding: 6px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+input[type="text"] {
+    
+    height: 30px;
+    border-radius: 20px;
+    border-radius: 7px;
+    color: rgb(0, 0, 0);
+    transition: background-color 0.3s, color 0.3s;
+    width: 120px;
+    border: solid #696969;
+   
+}
+.back{
+        box-shadow: 20px;
+        padding: 7px;
+        background-color: red;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        width: 70px;
+       
+    }
+.back-button{
+    margin-right: auto;
+}    
+.back:hover {
+    background-color:darkred;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    background-color: green;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: #fcfcfc;
+    font-size: 14px;
+}
+.delete-link {
+    background-color: white;
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.delete-link:hover {
+    text-decoration: underline;
+    color: darkred;
+} */
